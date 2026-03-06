@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/animal-con-w",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a animal-con-w",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/animal-con-w.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://tagbookmarks.info/es/animal-con-w/"
+    },
+    "homepage": "https://tagbookmarks.info/es/animal-con-w/"
+}
